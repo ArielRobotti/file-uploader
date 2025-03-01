@@ -16,6 +16,9 @@
 # rust
 target/
 
+# mops packages
+.mops/
+
 # frontend code
 node_modules/
 dist/
