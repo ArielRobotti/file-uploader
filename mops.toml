@@ -1,10 +1,7 @@
 [package]
 name = "file-uploader"
 version = "1.0.0"
-description = "Class to facilitate storage of large files"
-repository = "https://github.com/ArielRobotti/file-uploader.git"
-keywords = [ "file", "assets", "uploader" ]
+description = "class to facilitate storage of large files"
+repository = "https://github.com/ArielRobotti/file-uploader"
+keywords = [ "files", "assets", "uploader", "class" ]
 license = "MIT"
-
-[dependencies]
-map = "9.0.1"

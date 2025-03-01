@@ -1,6 +1,6 @@
 {
   "canisters": {
-    "file_uploader_backend": {
+    "example": {
       "main": "example/main.mo",
       "type": "motoko"
     }
